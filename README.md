@@ -7,7 +7,7 @@ Prescripto is a comprehensive full-stack web application designed to streamline 
 Experience the application live!
 
 * **User/Patient Interface:** [https://prescriptodoctorappointmentapp.netlify.app/]
-* **Admin & Doctor Panel:** [https://prescriptoadmindoctorpanel.netlify.app/login]
+* **Admin & Doctor Panel:** [[https://prescriptoadmindoctorpanel.netlify.app/login](https://prescriptoadmindoctorpanel.netlify.app/login)]
     * **Admin Credentials:**
         * Email: `admin@prescripto.com`
         * Password: `admin12345`

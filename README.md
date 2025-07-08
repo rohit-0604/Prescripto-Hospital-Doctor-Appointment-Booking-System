@@ -1,4 +1,4 @@
-# Prescripto - Online Doctor Appointment Booking App
+# Prescripto - Hospital Doctor Appointment Booking App
 
 ## Project Overview
 Prescripto is a comprehensive full-stack web application designed to streamline the process of managing doctor appointments, edit profiles, online payments, and administrative tasks. It provides distinct, secure panels for users (patients), doctors, and administrators, ensuring a smooth and efficient healthcare experience.

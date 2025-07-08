@@ -1,5 +1,3 @@
-# Prescripto-Online-Doctor-Appointment-System
-
 # Prescripto - Online Doctor Appointment Booking App
 
 ## Project Overview

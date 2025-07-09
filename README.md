@@ -12,7 +12,7 @@ Experience the application live!
         * Email: `admin@prescripto.com`
         * Password: `admin12345`
           
-## Repos for the User Interface, Admin & Doctor Panels, 
+## Repositories for the User Interface, Admin & Doctor Panels and Server 
 
 * **User/Patient Interface:** [https://github.com/rohit-0604/Prescripto-User]
 * **Admin & Doctor Panel:** [https://github.com/rohit-0604/Prescripto-Admin-Doctor]

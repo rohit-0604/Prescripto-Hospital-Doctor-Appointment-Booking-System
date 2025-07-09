@@ -7,10 +7,16 @@ Prescripto is a comprehensive full-stack web application designed to streamline 
 Experience the application live!
 
 * **User/Patient Interface:** [https://prescriptodoctorappointmentapp.netlify.app/]
-* **Admin & Doctor Panel:** [[https://prescriptoadmindoctorpanel.netlify.app/login](https://prescriptoadmindoctorpanel.netlify.app/login)]
+* **Admin & Doctor Panel:** [https://prescriptoadmindoctorpanel.netlify.app/login]
     * **Admin Credentials:**
         * Email: `admin@prescripto.com`
         * Password: `admin12345`
+          
+## Repos for the User Interface, Admin & Doctor Panels, 
+
+* **User/Patient Interface:** [https://github.com/rohit-0604/Prescripto-User]
+* **Admin & Doctor Panel:** [https://github.com/rohit-0604/Prescripto-Admin-Doctor]
+* **Server:** [https://github.com/rohit-0604/Prescripto-Server]
 
 ## Architecture
 This application follows a modern, decoupled architecture, consisting of three main components, each hosted in its own dedicated GitHub repository and deployed independently:

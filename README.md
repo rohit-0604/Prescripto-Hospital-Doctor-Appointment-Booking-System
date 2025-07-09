@@ -26,4 +26,3 @@ This application follows a modern, decoupled architecture, consisting of three m
 3.  **Backend API:** A robust Node.js/Express API that acts as the central data hub. It handles user authentication (JWT), business logic, data storage in MongoDB, and serves data securely to both frontend applications.
 
 
-![image](https://github.com/user-attachments/assets/64efb7be-2640-4a75-94f7-a0ad42d471df)

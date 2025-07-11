@@ -5,7 +5,8 @@ Prescripto is a comprehensive full-stack web application designed to streamline 
 
 ## Live Demos
 Experience the application live!
-**Disclaimer :** if there is a network error i suggest wait for a few minutes to witness the full functionality of the application as the server is hosted on render's free tier instance, so it might take a few minutes to cold start the server as the server gets killed due to inactivity due to the constraints of free tier instance. 
+
+**Disclaimer :** if there is a network error i suggest wait for a few minutes and keep refreshing at ALL DOCTORS page to witness the full functionality of the application as the server is hosted on render's free tier instance, so it might take a few minutes to cold start the server as the server gets killed due to inactivity due to the constraints of free tier instance. 
 
 * **User/Patient Interface:** [https://prescriptodoctorappointmentapp.netlify.app/]
 * **Admin & Doctor Panel:** [https://prescriptoadmindoctorpanel.netlify.app/login]
